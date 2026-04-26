@@ -1,4 +1,4 @@
-# Change Log
+# Version Log
 ## v0.2.0 - April 2026
 -Public GitHub repository launch. <br>
 -Created input and output gain knobs with linear gain -- will likely make them non-linear. <br>
