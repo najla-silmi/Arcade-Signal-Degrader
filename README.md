@@ -17,7 +17,7 @@ I come from a background in cognitive science and auditory perception, focusing 
 - Input and output gain control with dB scaling
 
 ### Work in progress
-This project is currently focused on documenting DSP concepts and development progress. Plugin release timeline will be announced as it nears completion. 
+This project is currently focused on documenting DSP concepts and development progress. Plugin release timeline will be announced as it nears completion.
 
 ### Cloneable, open-source DSP modules
 While the full plugin is in development, small, cloneable DSP modules will be provided. Each module will focus on a single topic and can be run independently. The purpose of these modules is to keep individual DSP topics testable and easy to understand.
@@ -30,3 +30,6 @@ Suggestions, corrections, and improvements are aways welcome!
 
 ### If this helps you... 
 Consider starring the repository to help others find it.
+
+### Disclaimer
+This repository documents development progress, challenges, and learning insights from building an audio plugin. To keep the focus on learning (and avoid exposing the full product), implementation details are kept vague. Standalone, runnable JUCE examples are published separately as focused tutorial repositories.
